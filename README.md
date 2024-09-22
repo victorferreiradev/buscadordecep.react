@@ -1,11 +1,7 @@
-Aqui está o arquivo README para o seu projeto:
-
----
-
 # Buscador de CEP
 
 Este é um projeto de uma aplicação web simples para buscar informações de um CEP (Código de Endereçamento Postal) brasileiro utilizando a API pública do ViaCEP. O objetivo é permitir ao usuário consultar dados como logradouro, bairro, localidade, DDD e outros detalhes relacionados ao CEP informado.
-
+https://buscadordecepreact.vercel.app
 ## Funcionalidades
 
 - Busca de informações detalhadas a partir de um CEP fornecido.
